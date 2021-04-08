@@ -6,6 +6,12 @@
     * REST APIs
     * Redis
     * PostgreSQL
+
+ - Infrastructure
+    * Kubernetes
+    * Docker
+    * Argo workflows
+    * Helm
 <!--
 **PyAgni/PyAgni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
