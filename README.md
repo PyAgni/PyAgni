@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 > 🔭 I’m currently working on ...
 
 - Django
@@ -12,7 +12,7 @@
     * Docker
     * Argo workflows
     * Helm
-<!--
+
 **PyAgni/PyAgni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <img align="left" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyagni&theme=vue&hide=css,tcl,html"></img>
+-->
